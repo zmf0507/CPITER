@@ -10,7 +10,9 @@ A student can choose any of the above methods corresponding to his/her course to
 1.For BTECH and related courses
 
 The formula used for calculating equivalent percentage is 
+
 %= (20*y*y*y - 380*y*y + 2725*y - 1690)/84
+
 where y is your CPI/CGPA/SGPA.
 
 2.For other courses
@@ -18,7 +20,9 @@ where y is your CPI/CGPA/SGPA.
 This formula is used for students of courses like M.SC, M.PHIL etc
 
 The formula used for calculating equivalent percentage is 
+
 %= (y-0.5)*10
+
 where y is your CPI/CGPA/SGPA.
 
 3.For jamia school
@@ -26,7 +30,9 @@ where y is your CPI/CGPA/SGPA.
 This formula is used for students of Jamia school
 
 The formula used for calculating equivalent percentage is 
+
 %= y*(9.5)
+
 where y is your CPI/CGPA/SGPA.
 
 If you find any discrepencies in the above documentation , feel free to contact at zmf0507@gmail.com.
