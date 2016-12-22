@@ -1,7 +1,7 @@
 # CPITER
 A simple web app to convert your sgpa/cgpa/cpi to percentage.
 https://zmf.000webhostapp.com/cpiter
-This web app works is for the students of jamia millia islamia.
+This web app is developed for the students of jamia millia islamia.
 This app has three methods for calculating the percentage from CPI for different courses and school.These methods are as mentioned below
 1.for BTECH (cubic formula)
 2.For other university courses (Linear Formula)
