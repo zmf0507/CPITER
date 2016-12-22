@@ -7,7 +7,7 @@ This app has three methods for calculating the percentage from CPI for different
 3.For Jamia school 
 A student can choose any of the above methods corresponding to his/her course to get the equivalent percentage from CPI/CGPA/SGPA as these three methods/modes use three different mathematical formulas to calculate the equivalent percenntage.
 
-1.For BTECH and related courses
+1. For BTECH and related courses
 
 The formula used for calculating equivalent percentage is 
 
@@ -15,7 +15,7 @@ The formula used for calculating equivalent percentage is
 
 where y is your CPI/CGPA/SGPA.
 
-2.For other courses
+2. For other courses
 
 This formula is used for students of courses like M.SC, M.PHIL etc
 
@@ -25,7 +25,7 @@ The formula used for calculating equivalent percentage is
 
 where y is your CPI/CGPA/SGPA.
 
-3.For jamia school
+3. For jamia school
 
 This formula is used for students of Jamia school
 
