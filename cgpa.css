@@ -1,0 +1,41 @@
+.main {
+width: 60%;
+margin-left: 20%;
+margin-top: 10%;
+
+}
+
+body {
+
+  background-image: url(bck.jpg);
+  overflow: hidden;
+}
+
+.progress {
+  margin-left: 5%;
+width: 90%;
+
+background-color: green;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+@media screen and (max-width:500px)
+{
+
+  .main {
+  width: 90%;
+  margin-left: 5%;
+  margin-top: 10%;
+  }
+
+
+  .progress {
+    margin-left: 5%;
+  width: 90%;
+
+  background-color: green;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+
+
+}
